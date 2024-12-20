@@ -1,0 +1,148 @@
+{
+  "products": {
+    "shoes": [
+      {
+        "name": "Nike Air Max 270",
+        "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR8tnRwTAqFcPlGcR1u6J8quHlJeXK129WQ1vT8EkNQUkrdoEOC_DBaFWuCmASjWeb_Xy45LBwdwFyw7qiHlFhHJv-5a9waG1C40luPv72l2GLojqvY1hJAWOE",
+        "size": "6, 7, 8, 9, 10, 11, 12",
+        "price_in_rupees": 12999,
+        "description": "Nike Air Max 270 features a large Air Max unit for exceptional cushioning and comfort. Ideal for casual wear and sports activities."
+      },
+      {
+        "name": "Nike Air Zoom Pegasus 39",
+        "image_link": "https://cdn-images.farfetch-contents.com/21/97/52/36/21975236_51987928_2048.jpg",
+        "size": "6, 7, 8, 9, 10, 11, 12",
+        "price_in_rupees": 9999,
+        "description": "A versatile running shoe designed for comfort, featuring responsive cushioning and a breathable upper for all-day wear."
+      },
+      {
+        "name": "Nike ZoomX Vaporfly NEXT% 2",
+        "image_link": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cc9d1232-80ef-4145-a91b-3a4ca7e579bc/W+NIKE+ZOOMX+VAPORFLY+NEXT%25+2.png",
+        "size": "7, 8, 9, 10, 11",
+        "price_in_rupees": 24999,
+        "description": "Designed for speed, this shoe is ideal for elite runners. The ZoomX foam provides incredible energy return and responsiveness."
+      },
+      {
+        "name": "Nike React Infinity Run Flyknit",
+        "image_link": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0c603582-607e-4eba-a438-c7fa66a049b3/W+NIKE+REACTX+INFINITY+RUN+4+W.png",
+        "size": "6, 7, 8, 9, 10, 11, 12",
+        "price_in_rupees": 15999,
+        "description": "The React Infinity Run Flyknit offers unmatched cushioning, giving you a soft, smooth ride that reduces injury risk while running."
+      },
+      {
+        "name": "Nike Air Force 1 Low",
+        "image_link": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a9b83f5c-af29-49b5-a784-989974e9c531/AIR+FORCE+1+%2707+LV8+1.png",
+        "size": "6, 7, 8, 9, 10, 11, 12",
+        "price_in_rupees": 8999,
+        "description": "A classic silhouette with a leather upper and the iconic Air Force 1 cushioning. A stylish, all-time favorite for streetwear enthusiasts."
+      },
+      {
+        "name": "Nike Free RN 5.0",
+        "image_link": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e52bcdab-26d7-435f-9e89-3b66ce1f113a/NIKE+FREE+METCON+6.png",
+        "size": "6, 7, 8, 9, 10, 11",
+        "price_in_rupees": 8499,
+        "description": "Designed for natural movement, the Nike Free RN 5.0 offers a flexible and lightweight feel, making it perfect for short runs or casual wear."
+      },
+      {
+        "name": "Nike Air Max 90",
+        "image_link": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/25eaf2f3-4366-418c-a103-ab08681d2dc8/WMNS+AIR+MAX+90.png",
+        "size": "6, 7, 8, 9, 10, 11, 12",
+        "price_in_rupees": 10999,
+        "description": "With retro vibes and iconic comfort, the Air Max 90 delivers reliable cushioning and a timeless design."
+      },
+      {
+        "name": "Nike Air Zoom Structure 25",
+        "image_link": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fbd237d6-821c-42ef-a115-686123417a56/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+        "size": "6, 7, 8, 9, 10, 11",
+        "price_in_rupees": 12999,
+        "description": "Support and stability come together in the Nike Air Zoom Structure 25, designed to keep you stable and secure during your runs."
+      },
+      {
+        "name": "Nike SB Dunk Low",
+        "image_link": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d12c7ad1-acf1-4257-a918-299154c29887/NIKE+DUNK+LOW+RETRO.png",
+        "size": "6, 7, 8, 9, 10, 11, 12",
+        "price_in_rupees": 13999,
+        "description": "A skate-inspired shoe with excellent durability and style. The Nike SB Dunk Low is a perfect mix of function and fashion."
+      },
+      {
+        "name": "Nike Blazer Mid '77 Vintage",
+        "image_link": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/040aa3c3-8b6d-4812-91ab-e9e106cddeef/BLAZER+MID+%2777+VNTG.png",
+        "size": "6, 7, 8, 9, 10, 11",
+        "price_in_rupees": 10999,
+        "description": "This retro-inspired basketball sneaker offers a leather upper and durable rubber outsole, making it a versatile choice for all-day wear."
+      }
+    ],
+    "dresses": [
+      {
+        "name": "Nike Pro Women's Tank",
+        "image_link": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/960d2515-b8da-4f9d-9400-1d12f72b69e9/AS+NIKE+PRO+DF+365+CROP+TANK.png",
+        "size": "S, M, L, XL",
+        "price_in_rupees": 2999,
+        "description": "A performance tank designed for comfort, offering a lightweight, breathable fit for training or casual wear."
+      },
+      {
+        "name": "Nike Dri-FIT One Women's Tank",
+        "image_link": "https://example.com/nike-dri-fit-one-womens-tank.jpg",
+        "size": "S, M, L, XL",
+        "price_in_rupees": 2599,
+        "description": "Made with Dri-FIT technology to wick away sweat, this tank top is ideal for keeping you cool during intense workouts."
+      },
+      {
+        "name": "Nike Sportswear Heritage Women's Hoodie",
+        "image_link": "https://example.com/nike-sportswear-heritage-hoodie.jpg",
+        "size": "S, M, L, XL",
+        "price_in_rupees": 4999,
+        "description": "Soft and cozy, this hoodie is perfect for cooler weather and casual outings, offering a relaxed fit and a stylish design."
+      },
+      {
+        "name": "Nike Air Max Dress",
+        "image_link": "https://example.com/nike-air-max-dress.jpg",
+        "size": "S, M, L",
+        "price_in_rupees": 5999,
+        "description": "A blend of casual style and comfort, the Nike Air Max Dress is designed with a soft fabric and sleek silhouette."
+      },
+      {
+        "name": "Nike Dri-FIT Racerback Women's Tank",
+        "image_link": "https://example.com/nike-dri-fit-racerback-tank.jpg",
+        "size": "S, M, L",
+        "price_in_rupees": 1999,
+        "description": "This lightweight tank is perfect for both workouts and everyday wear, with sweat-wicking Dri-FIT technology for extra comfort."
+      },
+      {
+        "name": "Nike Sportswear Women’s T-Shirt",
+        "image_link": "https://example.com/nike-sportswear-womens-t-shirt.jpg",
+        "size": "S, M, L, XL",
+        "price_in_rupees": 2499,
+        "description": "A classic T-shirt for everyday wear, designed with a soft cotton blend and the signature Nike logo on the chest."
+      },
+      {
+        "name": "Nike Tech Fleece Women's Joggers",
+        "image_link": "https://example.com/nike-tech-fleece-womens-joggers.jpg",
+        "size": "S, M, L, XL",
+        "price_in_rupees": 6499,
+        "description": "Nike's Tech Fleece joggers offer a lightweight, warm feel, ideal for layering on chilly days while keeping a modern look."
+      },
+      {
+        "name": "Nike Dri-FIT Women's Running Shorts",
+        "image_link": "https://example.com/nike-dri-fit-running-shorts.jpg",
+        "size": "S, M, L",
+        "price_in_rupees": 1699,
+        "description": "Perfect for runners, these Dri-FIT shorts offer comfort, breathability, and moisture-wicking properties."
+      },
+      {
+        "name": "Nike Training Women's Jacket",
+        "image_link": "https://example.com/nike-training-womens-jacket.jpg",
+        "size": "S, M, L, XL",
+        "price_in_rupees": 7499,
+        "description": "A versatile jacket designed for training, offering warmth and comfort with a stylish design."
+      },
+      {
+        "name": "Nike Sportswear Classic Women's Joggers",
+        "image_link": "https://example.com/nike-sportswear-classic-womens-joggers.jpg",
+        "size": "S, M, L, XL",
+        "price_in_rupees": 4799,
+        "description": "These joggers are designed for ultimate comfort, with a classic cut and a stylish look perfect for casual wear."
+      }
+    ]
+  }
+}
