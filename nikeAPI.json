@@ -1,5 +1,5 @@
 {
-  "products": {
+  
     "shoes": [
       {
         "name": "Nike Air Max 270",
@@ -144,5 +144,5 @@
         "description": "These joggers are designed for ultimate comfort, with a classic cut and a stylish look perfect for casual wear."
       }
     ]
-  }
+  
 }
