@@ -1,6 +1,6 @@
 
   
-    "shoes": [
+    [
       {
         "name": "Nike Air Max 270",
         "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR8tnRwTAqFcPlGcR1u6J8quHlJeXK129WQ1vT8EkNQUkrdoEOC_DBaFWuCmASjWeb_Xy45LBwdwFyw7qiHlFhHJv-5a9waG1C40luPv72l2GLojqvY1hJAWOE",
@@ -71,78 +71,3 @@
         "price_in_rupees": 10999,
         "description": "This retro-inspired basketball sneaker offers a leather upper and durable rubber outsole, making it a versatile choice for all-day wear."
       }
-    ],
-    "dresses": [
-      {
-        "name": "Nike Pro Women's Tank",
-        "image_link": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/960d2515-b8da-4f9d-9400-1d12f72b69e9/AS+NIKE+PRO+DF+365+CROP+TANK.png",
-        "size": "S, M, L, XL",
-        "price_in_rupees": 2999,
-        "description": "A performance tank designed for comfort, offering a lightweight, breathable fit for training or casual wear."
-      },
-      {
-        "name": "Nike Dri-FIT One Women's Tank",
-        "image_link": "https://example.com/nike-dri-fit-one-womens-tank.jpg",
-        "size": "S, M, L, XL",
-        "price_in_rupees": 2599,
-        "description": "Made with Dri-FIT technology to wick away sweat, this tank top is ideal for keeping you cool during intense workouts."
-      },
-      {
-        "name": "Nike Sportswear Heritage Women's Hoodie",
-        "image_link": "https://example.com/nike-sportswear-heritage-hoodie.jpg",
-        "size": "S, M, L, XL",
-        "price_in_rupees": 4999,
-        "description": "Soft and cozy, this hoodie is perfect for cooler weather and casual outings, offering a relaxed fit and a stylish design."
-      },
-      {
-        "name": "Nike Air Max Dress",
-        "image_link": "https://example.com/nike-air-max-dress.jpg",
-        "size": "S, M, L",
-        "price_in_rupees": 5999,
-        "description": "A blend of casual style and comfort, the Nike Air Max Dress is designed with a soft fabric and sleek silhouette."
-      },
-      {
-        "name": "Nike Dri-FIT Racerback Women's Tank",
-        "image_link": "https://example.com/nike-dri-fit-racerback-tank.jpg",
-        "size": "S, M, L",
-        "price_in_rupees": 1999,
-        "description": "This lightweight tank is perfect for both workouts and everyday wear, with sweat-wicking Dri-FIT technology for extra comfort."
-      },
-      {
-        "name": "Nike Sportswear Women’s T-Shirt",
-        "image_link": "https://example.com/nike-sportswear-womens-t-shirt.jpg",
-        "size": "S, M, L, XL",
-        "price_in_rupees": 2499,
-        "description": "A classic T-shirt for everyday wear, designed with a soft cotton blend and the signature Nike logo on the chest."
-      },
-      {
-        "name": "Nike Tech Fleece Women's Joggers",
-        "image_link": "https://example.com/nike-tech-fleece-womens-joggers.jpg",
-        "size": "S, M, L, XL",
-        "price_in_rupees": 6499,
-        "description": "Nike's Tech Fleece joggers offer a lightweight, warm feel, ideal for layering on chilly days while keeping a modern look."
-      },
-      {
-        "name": "Nike Dri-FIT Women's Running Shorts",
-        "image_link": "https://example.com/nike-dri-fit-running-shorts.jpg",
-        "size": "S, M, L",
-        "price_in_rupees": 1699,
-        "description": "Perfect for runners, these Dri-FIT shorts offer comfort, breathability, and moisture-wicking properties."
-      },
-      {
-        "name": "Nike Training Women's Jacket",
-        "image_link": "https://example.com/nike-training-womens-jacket.jpg",
-        "size": "S, M, L, XL",
-        "price_in_rupees": 7499,
-        "description": "A versatile jacket designed for training, offering warmth and comfort with a stylish design."
-      },
-      {
-        "name": "Nike Sportswear Classic Women's Joggers",
-        "image_link": "https://example.com/nike-sportswear-classic-womens-joggers.jpg",
-        "size": "S, M, L, XL",
-        "price_in_rupees": 4799,
-        "description": "These joggers are designed for ultimate comfort, with a classic cut and a stylish look perfect for casual wear."
-      }
-    ]
-  
-
